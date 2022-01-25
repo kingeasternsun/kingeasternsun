@@ -31,6 +31,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![XMind](https://img.shields.io/badge/-XMind-05122A?style=flat&logo=xmind)
 
+####  :rainbow:  Focusing
+
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=iceberg)](https://github.com/apache/iceberg)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=trino)](https://github.com/trinodb/trinol)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -39,5 +44,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kingeasternsun&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Trophies 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
