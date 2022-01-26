@@ -34,17 +34,18 @@
 ####  :rainbow:  Focusing
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=iceberg)](https://github.com/apache/iceberg)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=trino)](https://github.com/trinodb/trinol)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=trino)](https://github.com/trinodb/trino)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=leveldb-rs)](https://github.com/kingeasternsun/leveldb-rs)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/kingeasternsun">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kingeasternsun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kingeasternsun&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kingeasternsun&layout=compact&langs_count=6&theme=algolia"/>
 </a>
 </p>
 
-### Trophies 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
