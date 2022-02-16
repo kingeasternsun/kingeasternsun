@@ -35,7 +35,7 @@
 
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=iceberg)](https://github.com/kingeasternsun/iceberg)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=leveldb-rs)](https://github.com/kingeasternsun/leveldb-rs)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=trino)](https://github.com/trinodb/trino)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=flink)](https://github.com/kingeasternsun/flink)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
