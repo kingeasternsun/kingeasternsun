@@ -4,8 +4,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-- 🔭 I’m currently working on [iceberg](https://github.com/apache/iceberg) and [trino](https://github.com/trinodb/trino) 
-- 🌱 I’m currently learning [Flink](https://flink.apache.org/) [Istio](https://istio.io/) and Rust
+- 🔭 I’m currently working on [kubernetes](https://github.com/kubernetes/kubernetes) and [scheduler](https://github.com/kubernetes/kubernetes/tree/master/pkg/scheduler) 
+- 🌱 I’m currently learning [volcano](https://github.com/volcano-sh/volcano) and [koordinator](https://github.com/koordinator-sh/koordinator) Rust
 - ✍️ In my free time, I'd like to read books or watch tech conference videos
 - 📫 How to reach me: kingeasternsun@gmail.com! I'll try to respond as soon as I can.
 
@@ -36,7 +36,6 @@
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=iceberg)](https://github.com/kingeasternsun/iceberg)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=leveldb-rs)](https://github.com/kingeasternsun/leveldb-rs)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=flink)](https://github.com/kingeasternsun/flink)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=flink-learn)](https://github.com/kingeasternsun/flink-learn)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -47,7 +46,9 @@
 </a>
 </p>
 
-### recent PR
+### Recent PR
+
+:white_check_mark:   replace queueMap with sets.String in enqueue action to improve readable [#2581](https://github.com/volcano-sh/volcano/pull/2581) 
 :white_check_mark:   Speed up TableMigration By collect the DafaFile In parallel [#3876](https://github.com/apache/iceberg/pull/3876) 
 - [ ] Add "parallelism" parameter to "add_files" syscall and the related functions. [#3973](https://github.com/apache/iceberg/pull/3973)
 - [ ] fix Flink Read support for parquet int96 timestamps [#3987](https://github.com/apache/iceberg/pull/3987)
