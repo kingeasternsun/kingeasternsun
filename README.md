@@ -46,12 +46,4 @@
 </a>
 </p>
 
-### Recent PR
-
-- :white_check_mark:   replace queueMap with sets.String in enqueue action to improve readable [#2581](https://github.com/volcano-sh/volcano/pull/2581) 
-- :white_check_mark:   Speed up TableMigration By collect the DafaFile In parallel [#3876](https://github.com/apache/iceberg/pull/3876) 
-- [ ] Add "parallelism" parameter to "add_files" syscall and the related functions. [#3973](https://github.com/apache/iceberg/pull/3973)
-- [ ] fix Flink Read support for parquet int96 timestamps [#3987](https://github.com/apache/iceberg/pull/3987)
-
-
 
