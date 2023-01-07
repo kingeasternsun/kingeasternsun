@@ -5,7 +5,8 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 - 🔭 I’m currently working on [kubernetes](https://github.com/kubernetes/kubernetes) and [scheduler](https://github.com/kubernetes/kubernetes/tree/master/pkg/scheduler) 
-- 🌱 I’m currently learning [volcano](https://github.com/volcano-sh/volcano) [koordinator](https://github.com/koordinator-sh/koordinator) and Rust
+- 🌱 I’m currently studying [volcano](https://github.com/volcano-sh/volcano) [koordinator](https://github.com/koordinator-sh/koordinator) and contributing to them
+- 🌱 I’m currently learning web3 and Rust
 - ✍️ In my free time, I'd like to read books or watch tech conference videos
 - 📫 How to reach me: kingeasternsun@gmail.com! I'll try to respond as soon as I can.
 
