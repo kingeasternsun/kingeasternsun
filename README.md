@@ -34,9 +34,11 @@
 
 ####  :rainbow:  Focusing
 
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=volcano)](https://github.com/kingeasternsun/volcano-varname-fix/)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=k8s-scheduler-code-dive)](https://github.com/kingeasternsun/k8s-scheduler-code-dive)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=iceberg)](https://github.com/kingeasternsun/iceberg)
 [![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=leveldb-rs)](https://github.com/kingeasternsun/leveldb-rs)
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=kingeasternsun&repo=flink)](https://github.com/kingeasternsun/flink)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
